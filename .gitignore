@@ -1,0 +1,4 @@
+# ignores files and paths generated in steps described
+
+files/
+output.csv
